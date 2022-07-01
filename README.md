@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Fahim Muntasir</h1>
+<h1 align="center">I'm Fahim Muntasir</h1>
 <h3 align="center">MERN Stack Web Developer. Expertise in Front-End Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimmuntasir1&label=Profile%20views&color=0e75b6&style=flat" alt="fahimmuntasir1" /> </p>
