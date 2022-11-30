@@ -6,19 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/fahimmuntasir1" target="blank"><img src="https://img.shields.io/twitter/follow/fahimmuntasir1?logo=twitter&style=for-the-badge" alt="fahimmuntasir1" /></a> </p>
 
-- 🌱 I’m currently learning **React-Redux, Typescript**
+- 🌱 I’m currently learning **React-Redux, Python**
 
 - 👨‍💻 All of my projects are available at [https://fahimmuntasir1.netlify.app/](https://fahimmuntasir1.netlify.app/)
-
-- 📝 I regularly write articles on [https://fahimmuntasir1.netlify.app/](https://fahimmuntasir1.netlify.app/)
 
 - 💬 Ask me about **Javascript, React,**
 
 - 📫 How to reach me **fahimmuntasir043@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing](https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing](https://drive.google.com/file/d/1YF-_f7jGBzShX25fXL14JAi1Z4Yd0TUr/view?usp=sharing)](https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing)
 
-- ⚡ Fun fact **I am a bored man**
+- ⚡ Fun fact **I am a bored man 😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
