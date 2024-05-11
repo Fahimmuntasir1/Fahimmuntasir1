@@ -16,7 +16,6 @@
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing](https://drive.google.com/file/d/1YF-_f7jGBzShX25fXL14JAi1Z4Yd0TUr/view?usp=sharing)](https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing)
 
-- ⚡ Fun fact **I am a bored man 😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
