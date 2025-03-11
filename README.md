@@ -1,20 +1,18 @@
 ### Hi there 👋
 <h1 align="center">I'm Fahim Muntasir</h1>
-<h3 align="center">MERN Stack Web Developer. Expertise in Front-End Development</h3>
+<h3 align="center">Jr. QA, Learning Automation, Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimmuntasir1&label=Profile%20views&color=0e75b6&style=flat" alt="fahimmuntasir1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fahimmuntasir1" target="blank"><img src="https://img.shields.io/twitter/follow/fahimmuntasir1?logo=twitter&style=for-the-badge" alt="fahimmuntasir1" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs, Python**
+- 🌱 I’m currently learning **Playwright, Python**
 
 - 👨‍💻 All of my projects are available at [https://fahimmuntasir1.netlify.app/](https://fahimmuntasir1.netlify.app/)
 
-- 💬 Ask me about **Javascript, React,**
-
 - 📫 How to reach me **fahimmuntasir043@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing](https://drive.google.com/file/d/1YF-_f7jGBzShX25fXL14JAi1Z4Yd0TUr/view?usp=sharing)](https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing)
+- 📄 My updated resume [[https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing](https://drive.google.com/file/d/1YF-_f7jGBzShX25fXL14JAi1Z4Yd0TUr/view?usp=sharing)](https://drive.google.com/file/d/1BXuogu04q60LVgAwlQqZwubE6ZxzdCDI/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
